@@ -1,5 +1,5 @@
--  Hello, I’m @ceejay-mzgic
--  I’m interested in gamedevelopment, diyprojects .
+-  Hello, I’m ceejay
+-  I’m interested in game-development, diy-projects
 -  I’m currently learning C#, python, javascript
 
 <!---
